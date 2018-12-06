@@ -348,7 +348,7 @@ def problem0c(circle, n, window):
     #   renders with a half-second pause after rendering.
     ###########################################################################
     # -------------------------------------------------------------------------
-    
+
     circle.attach_to(window)
     window.render(0.5)
     r = circle.radius
